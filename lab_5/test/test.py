@@ -1,6 +1,6 @@
 import unittest
 
-from main import find_unreachable_cities
+from scr.main import find_unreachable_cities
 
 
 class MyTestCase(unittest.TestCase):
